@@ -2,9 +2,10 @@
  Simple bot for mass sending messages by whatsapp
 
 # Functions
-- [x] bulk messaging
-- [x] message for contact outside the schedule
-- [x] newline detection by character "¨"
+- [x] Headless Mode
+- [x] Bulk Messaging
+- [x] Message for Contact Outside the Schedule
+- [x] Newline Detection by Character "¨"
 
 # Coming soon
 - Send images
