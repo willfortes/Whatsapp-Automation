@@ -4,6 +4,7 @@
 # Functions
 [x] bulk messaging
 [x] message for contact outside the schedule
+[x] newline detection by character "¨"
 
 # Coming soon
 - Send images
