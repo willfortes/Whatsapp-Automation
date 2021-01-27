@@ -7,8 +7,8 @@ import os
 
 class googleContacts:
     #User Variables
-    email = "willian.rugenski@gmail.com"
-    password = "#Yeshua@Will@2018.#"
+    email = "<Your mail>"
+    password = "<Your password>"
 
     #Initialize path variables
     dir_path = os.getcwd()
